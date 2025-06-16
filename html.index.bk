@@ -13,7 +13,7 @@
   <header>
         <nav>
             <ul>
-                <li><a href="index.html.rs">HOME</a></li>
+                <li><a href="index.html">HOME</a></li>
             <li><a href="menu.html">MENU</a></li>
             <li><a href="gallery.html">GALLERY</a></li>
             <li><a href="reviews.html">ABOUT</a></li>
@@ -25,6 +25,13 @@
 
     <main>
 <div class="card">
+ <h2 style="color: white";>Contact Us</h2>
+            <div class="contact-details">
+                <p style="color: white";>For any inquiries or assistance, please feel free to contact us using the information below:</p>
+                
+                <p style="color: white";>Email: jumachipsi1@gmail.com</p>
+                <p style="color: white";>Phone: +255 787 060 630</p>
+                <p style="color: white";>Address: 17107 Ferry,De es Salaam, Tanzania</p>
 <h2 style="color: white";>Order Your Food now:</h2>
 <form acction"#"
 method="post">
